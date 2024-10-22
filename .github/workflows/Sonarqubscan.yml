@@ -1,5 +1,4 @@
 name: Run SonarQube with Maven
-https://github.com/mvthivs23/java-reachability-playground/settings
 on: push
 
 jobs:
